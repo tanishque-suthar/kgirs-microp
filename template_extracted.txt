@@ -1,0 +1,257 @@
+VIVEKANAND EDUCATION SOCIETY’S INSTITUTE OF TECHNOLOGY
+DEPARTMENT OF COMPUTER ENGINEERING
+MICRO PROJECT REPORT
+Project Title : __________________________________________________________
+SDG Aligned & Logo : __________________________________________________________
+Project / Course Details
+To be filled by students
+Course / Subject Name
+Course Code / Semester / Academic Year
+Faculty Incharge / Project Mentor
+Project Group No. (if applicable)
+Submission Date
+Project Team Details
+Student Name
+Roll No.
+Class / Division
+Institute Email ID
+Department of Computer Engineering
+Academic Year: ____________________
+Instructions for Preparing the Report
+Use this template for micro projects across Computer Engineering courses. Adapt technical subsections to the nature of the course and project.
+Replace all prompts in square brackets or blank fields with project-specific content. Delete guidance text before final submission.
+Use clear headings, numbered figures/tables, readable diagrams, and consistent citation style. Ensure all screenshots and results are your own or appropriately acknowledged.
+The report should describe work actually completed. Do not claim implementation, testing, deployment, or results that have not been demonstrated.
+Include a Sustainability / SDG analysis for every project, even when the project is not explicitly an environmental application. Explain the project's positive, negative, or neutral impacts with evidence.
+Follow the word count, page limit, group size, and submission format specified by the course faculty.
+Suggested Table of Contents
+Abstract
+Introduction
+Problem Definition, Objectives and Scope
+Background / Literature Review
+Proposed Solution and System Design
+Methodology and Implementation
+Testing, Evaluation and Results
+Sustainability and SDG Alignment
+Feasibility, Limitations and Risk Considerations
+Conclusion and Future Scope
+References
+Appendices (if required)
+Note: Update page numbers and generate the final Table of Contents after completing the report.
+Abstract
+[Write approximately 150–250 words summarizing the problem, motivation, proposed solution, methods/tools, key implementation details, evaluation approach, major results, and sustainability/SDG relevance.]
+1. Introduction
+1.1 Background and Motivation
+[Introduce the application area, course concepts being applied, and why the problem matters.]
+1.2 Problem Context
+[Describe the present situation, existing process/system, and the gap or opportunity.]
+1.3 Intended Users / Stakeholders
+[Identify users, beneficiaries, administrators, or other stakeholders.]
+2. Problem Definition, Objectives and Scope
+2.1 Problem Statement
+[State the problem precisely. Identify the target user, need, constraints, and expected outcome.]
+2.2 Objectives
+[Objective: use a measurable action verb such as design, develop, analyze, automate, classify, optimize, or evaluate.]
+2.3 Scope and Deliverables
+[List what is included, what is excluded, and the expected deliverables: prototype, application, model, analysis, dataset, report, or demonstration.]
+2.4 Assumptions and Constraints
+[State assumptions, resource constraints, privacy/security restrictions, and project boundaries.]
+3. Background / Literature Review
+[Review relevant research papers, technical articles, standards, existing applications, libraries, or comparable solutions. The number of sources should follow faculty instructions. Summarize what each source contributes and identify the gap addressed by this project.]
+Source / Year
+Approach or Key Finding
+Strength / Limitation
+Relevance to This Project
+[Author, title, year]
+[Brief summary]
+[Strength and limitation]
+[How it informs your design]
+[Author, title, year]
+[Brief summary]
+[Strength and limitation]
+[How it informs your design]
+[Add rows as required]
+3.1 Identified Gap and Project Contribution
+[Explain how the proposed project differs from or improves upon existing solutions. For implementation-focused projects, this may be a practical feature or integration rather than a novel research contribution.]
+4. Proposed Solution and System Design
+4.1 Proposed Solution
+[Explain the solution and how it addresses the stated problem. Include key features and expected users’ workflow.]
+4.2 System Architecture / Block Diagram / Conceptual Design
+[Insert a labelled architecture, block diagram, flowchart, UML diagram, ER diagram, data-flow diagram, agent workflow, or other design appropriate to the project. Number the figure and explain each component and the interactions.]
+Figure 1: [Title of diagram]
+4.3 Module Description
+Module / Component
+Responsibility
+Input
+Output
+[Module 1]
+[Purpose]
+[Input]
+[Output]
+[Module 2]
+[Purpose]
+[Input]
+[Output]
+[Add rows as required]
+4.4 Data / Inputs / Dataset (if applicable)
+[Describe source, size, format, fields, collection method, licensing, consent, privacy, preprocessing, and limitations. If the project does not use a dataset, describe the inputs or test cases instead.]
+4.5 Algorithm / Design Decisions (if applicable)
+[Provide pseudocode, model/algorithm selection, database schema, API design, network design, or key design decisions relevant to the project.]
+5. Methodology and Implementation
+5.1 Workflow / Development Method
+[Describe the sequence of activities from requirements and design to implementation and evaluation.]
+5.2 Technologies, Tools and Resources
+Category
+Technology / Tool
+Purpose / Justification
+Programming language / framework
+[Name and version]
+[Why used]
+Database / API / platform
+[Name and version]
+[Why used]
+Development / testing tools
+[Name and version]
+[Why used]
+Hardware / cloud / other resources
+[Details or N/A]
+[Why required]
+5.3 Implementation Details
+[Explain the major implementation steps, important functions/modules, integrations, data flow, and challenges. Add selected code snippets only where they clarify the design; do not paste the entire source code.]
+5.4 User Interface / Prototype / Output
+[Insert labelled screenshots, sample outputs, dashboards, terminal results, API responses, hardware photographs, or other relevant evidence. Include captions and explain what each demonstrates.]
+5.5 Team Contribution (for group projects)
+Team Member
+Assigned Responsibility
+Work Completed / Evidence
+[Name]
+[Role]
+[Modules / tasks completed]
+[Name]
+[Role]
+[Modules / tasks completed]
+[Add rows as required]
+6. Testing, Evaluation and Results
+6.1 Test Plan and Test Cases
+[State what was tested, the test environment, and the expected outcomes. Include normal, boundary, invalid-input, and failure cases where relevant.]
+Test ID
+Test Input / Scenario
+Expected Result
+Observed Result
+Status
+TC-01
+[Scenario]
+[Expected]
+[Observed]
+[Pass/Fail]
+TC-02
+[Scenario]
+[Expected]
+[Observed]
+[Pass/Fail]
+TC-03
+[Scenario]
+[Expected]
+[Observed]
+[Pass/Fail]
+6.2 Evaluation Metrics
+[Choose metrics appropriate to the project: accuracy, precision/recall/F1, response time, throughput, resource usage, usability feedback, task completion rate, reliability, cost, error rate, or other justified measures. Define each metric and explain how it was measured. Do not use irrelevant metrics.]
+Metric
+Measurement Method / Formula
+Observed Value
+Interpretation
+[Metric 1]
+[How measured]
+[Value]
+[What it means]
+[Metric 2]
+[How measured]
+[Value]
+[What it means]
+6.3 Results and Discussion
+[Present actual results using tables, charts, or examples. Compare outcomes with objectives, baseline/existing method, or expected behaviour where feasible. Discuss unexpected results and limitations.]
+6.4 Validation / Demonstration Evidence
+[Mention demo steps, repository or deployment details if permitted, and evidence that the stated features work. Do not include passwords, tokens, private data, or confidential information.]
+7. Sustainability and SDG Alignment (Mandatory for Every Project)
+Assess the project's environmental, social, and economic implications. A project may contribute directly, indirectly, or have limited alignment with an SDG. Select only goals supported by a clear explanation; do not claim an SDG contribution solely by naming it.
+7.1 Sustainability Assessment
+Dimension
+Questions to Consider
+Project-Specific Assessment / Evidence
+Environmental
+Energy and compute use; paper/material use; e-waste; resource efficiency; emissions; lifecycle impacts.
+[State positive/negative/neutral impact and evidence.]
+Social
+Accessibility and inclusion; user safety; privacy; fairness; digital divide; community benefit.
+[State impact, affected stakeholders, and safeguards.]
+Economic
+Development and operating cost; maintenance; affordability; productivity; long-term viability.
+[Give estimate, comparison, or reasoned qualitative assessment.]
+7.2 UN Sustainable Development Goals (SDGs)
+[Select relevant SDG(s) and explain the specific project feature or outcome that supports each. If no direct contribution is demonstrated, state this honestly and identify any indirect link or potential risk.]
+SDG No. and Name
+Project Feature / Activity Linked to SDG
+Expected or Observed Contribution
+Evidence / Indicator
+[e.g., SDG 4: Quality Education]
+[Feature]
+[Specific contribution]
+[Metric, observation, or reasoned assessment]
+[SDG number and name]
+[Feature]
+[Contribution]
+[Evidence]
+[Add or remove rows as appropriate]
+7.3 Sustainability Measures and Trade-offs
+[Identify at least one practical measure to reduce negative impacts, such as efficient algorithms, lightweight models, responsible cloud usage, accessible design, data minimization, repair/reuse, or secure and ethical handling of data. Discuss trade-offs where relevant.]
+7.4 Sustainability Indicator / Follow-up
+[Specify one or more indicators that could be measured, such as energy/runtime, paper saved, cost per transaction, accessibility task completion, user reach, or resource consumption. If not measured in this micro project, label it as a proposed future measure.]
+8. Feasibility, Limitations and Risk Considerations
+8.1 Feasibility
+[Briefly consider technical feasibility, time and resource feasibility, operational/usability feasibility, and cost effectiveness. Include a simple budget estimate when relevant.]
+Item / Resource
+Estimated Cost (₹)
+Basis / Notes
+Hardware / hosting / cloud
+[Amount or 0]
+[Assumption]
+Software / API / dataset
+[Amount or 0]
+[Free / licensed / usage-based]
+Other resources
+[Amount or 0]
+[Details]
+Total estimated cost
+[Total]
+[One-time and recurring costs distinguished]
+8.2 Limitations
+[State constraints in data, functionality, accuracy, sample size, hardware, generalizability, deployment, or evaluation.]
+8.3 Risks, Ethics, Privacy and Security
+[Identify relevant risks and safeguards, including data consent, access control, bias, explainability, secure coding, misuse, reliability, safety, and responsible use of AI where applicable.]
+9. Conclusion and Future Scope
+9.1 Summary
+[Summarize what was developed or investigated, the extent to which objectives were met, the most important results, and the project's sustainability/SDG implications.]
+9.2 Future Scope
+[List realistic next steps such as additional features, larger evaluation, improved security/accessibility, deployment, integration, or sustainability measurement.]
+References
+[List all papers, books, documentation, datasets, APIs, standards, and websites cited in the report. Use one consistent citation style (IEEE is recommended for engineering reports). Every in-text citation must appear in this list, and every listed reference should be cited in the report.]
+[1] Author(s), “Title,” Publisher / Journal / Website, year. DOI or URL (accessed on DD Month YYYY, if applicable).
+[2] Author(s), “Title,” Publisher / Journal / Website, year. DOI or URL (accessed on DD Month YYYY, if applicable).
+[3] Author(s), “Title,” Publisher / Journal / Website, year. DOI or URL (accessed on DD Month YYYY, if applicable).
+Appendices (if required)
+Appendix A: Additional screenshots / outputs
+Appendix B: Selected pseudocode or code excerpts
+Appendix C: Additional test cases / survey instrument
+Appendix D: Repository / demo / deployment information (no credentials or secrets)
+Final Submission Checklist
+☐ Cover page includes title, course, mentor, group number, and all team members.
+☐ Abstract, problem statement, objectives, scope, and conclusion are complete.
+☐ Design diagrams are labelled, numbered, and explained.
+☐ Implementation claims are supported by screenshots, outputs, or demonstration evidence.
+☐ Test cases and suitable evaluation metrics are included with actual observations.
+☐ Sustainability assessment covers environmental, social, and economic dimensions.
+☐ Relevant SDG(s) are justified with project-specific links and indicators; unsupported claims are avoided.
+☐ Privacy, security, ethics, limitations, and risks are discussed where applicable.
+☐ All sources are cited consistently and references are complete.
+☐ Formatting, spelling, page numbers, figure/table numbering, and contents page are checked.
+☐ No passwords, API keys, confidential information, or unauthorized personal data are included.

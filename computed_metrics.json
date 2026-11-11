@@ -1,0 +1,174 @@
+{
+  "dataset": {
+    "total_samples": 100,
+    "class_distribution": {
+      "correct": 40,
+      "partly": 30,
+      "incorrect": 30
+    },
+    "avg_answer_length": 747.54,
+    "std_answer_length": 353.5278029727612,
+    "min_answer_length": 41,
+    "max_answer_length": 1556,
+    "avg_len_by_class": {
+      "correct": 576.575,
+      "incorrect": 954.4333333333333,
+      "partly": 768.6
+    }
+  },
+  "ragas": {
+    "faithfulness": {
+      "mean": 1.0,
+      "std": 0.0,
+      "by_class_mean": {
+        "correct": 1.0,
+        "incorrect": 1.0,
+        "partly": 1.0
+      },
+      "spearman": 0.0,
+      "spearman_ci": [
+        0.0,
+        0.0
+      ],
+      "spearman_p": 1.0,
+      "kendall": 0.0,
+      "kendall_ci": [
+        0.0,
+        0.0
+      ],
+      "kendall_p": 1.0
+    },
+    "relevancy": {
+      "mean": -0.013433000000000002,
+      "std": 0.07111009397867904,
+      "by_class_mean": {
+        "correct": -0.014047500000000001,
+        "incorrect": -0.006823333333333333,
+        "partly": -0.019223333333333335
+      },
+      "spearman": -0.0229,
+      "spearman_ci": [
+        -0.2229,
+        0.1479
+      ],
+      "spearman_p": 0.8208,
+      "kendall": -0.0178,
+      "kendall_ci": [
+        -0.1675,
+        0.1122
+      ],
+      "kendall_p": 0.81909
+    }
+  },
+  "judge": {
+    "accuracy": 0.3,
+    "cohen_kappa_quadratic": 0.0,
+    "cohen_kappa_unweighted": 0.0,
+    "confusion_matrix": [
+      [
+        0,
+        30,
+        0
+      ],
+      [
+        0,
+        30,
+        0
+      ],
+      [
+        0,
+        40,
+        0
+      ]
+    ],
+    "position_bias_flip_rate": 0.0,
+    "verbosity_bias": {
+      "by_class": {
+        "incorrect": {
+          "n": 30,
+          "spearman": 0.0,
+          "p_value": 1.0,
+          "note": "Insufficient variance or sample size"
+        },
+        "partly": {
+          "n": 30,
+          "spearman": 0.0,
+          "p_value": 1.0,
+          "note": "Insufficient variance or sample size"
+        },
+        "correct": {
+          "n": 40,
+          "spearman": 0.0,
+          "p_value": 1.0,
+          "note": "Insufficient variance or sample size"
+        }
+      },
+      "overall": {
+        "n": 100,
+        "spearman": NaN,
+        "p_value": NaN
+      },
+      "fluff_test": {
+        "n_tested": 19,
+        "mean_delta": 0.0,
+        "pct_unchanged": 100.0,
+        "pct_increased": 0.0,
+        "pct_decreased": 0.0
+      }
+    }
+  },
+  "iaa": {
+    "n": 35,
+    "pairwise": {
+      "A_vs_B (RAGTruth vs User)": 0.7368,
+      "A_vs_C (RAGTruth vs Gemini)": 0.0,
+      "B_vs_C (User vs Gemini)": 0.0
+    },
+    "fleiss_kappa": 0.0803,
+    "status": "complete"
+  },
+  "user_labels_dist": {
+    "correct": 21,
+    "partly": 7,
+    "incorrect": 7
+  },
+  "retrieval": {
+    "mrr": {
+      "metric": "MRR",
+      "n": 100,
+      "spearman": -0.0218,
+      "spearman_ci": [
+        -0.218,
+        0.1791
+      ],
+      "spearman_p": 0.82952,
+      "kendall": -0.0201,
+      "kendall_ci": [
+        -0.2009,
+        0.1633
+      ],
+      "kendall_p": 0.82424
+    },
+    "ndcg": {
+      "metric": "NDCG",
+      "n": 100,
+      "spearman": -0.0297,
+      "spearman_ci": [
+        -0.2189,
+        0.1857
+      ],
+      "spearman_p": 0.76903,
+      "kendall": -0.023,
+      "kendall_ci": [
+        -0.1856,
+        0.1606
+      ],
+      "kendall_p": 0.79089
+    },
+    "mean_mrr": 0.7717,
+    "mean_ndcg": 0.8145,
+    "zero_relevant_rate": 0.06,
+    "passage_count_mean": 3.0,
+    "relevant_passage_count_mean": 2.0
+  }
+}

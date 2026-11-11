@@ -1,0 +1,63 @@
+# LaTeX temporary and build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex(busy)
+*.synctex.gz
+*.toc
+*.vrb
+*.upa
+*.upb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Playwright & agent caches
+.playwright-mcp/
+.agents/
+
+# OS generated
+.DS_Store
+Thumbs.db

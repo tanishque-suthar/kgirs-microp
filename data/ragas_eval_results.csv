@@ -1,0 +1,58 @@
+id,question,retrieved passages,answer,derived_label,answer_length,ragas_faithfulness,ragas_relevancy
+17439,what skills are needed to become a veterinarian,"passage 1:1 Compassion A great veterinarian is very compassionate, both to animals and their owners. 2  They are able to put animals and their owners at ease during a visit. 3  Customer Service Skills A great veterinarian has excellent customer service skills and can satisfy the animal care needs of pet owners. great veterinarian is held in the highest regard by animal lovers and pet owners. They provide much needed preventative and emergency care to beloved dogs, cats, horses, and other animals. To be the most successful in the field, a great veterinarian should have:
+
+passage 2:1 Communication Skills A great veterinarian has excellent communication skills and can talk effectively with pet owners to determine exactly what the animal needs, as well as explain clearly to the owner what the diagnosis is and what the treatment will be. great veterinarian is held in the highest regard by animal lovers and pet owners. They provide much needed preventative and emergency care to beloved dogs, cats, horses, and other animals. To be the most successful in the field, a great veterinarian should have:
+
+passage 3:Passion for Animals. The most important skill is a passion for animals and a commitment to the health and well-being of animals. The future veterinarian cannot just own a dog or cat; he must have desire to care for the pet and keep it healthy and happy.nterpersonal Skills. Almost every animal treated by a veterinarian has an owner. Whether it is a cat, dog, ferret, bird or any other type of pet, the owners of these animals are the clients who pay the bills. Good interpersonal skills with clients are essential when treating their pets.","Based on the provided passages, the following are the skills needed to become a veterinarian:
+
+1. Compassion: A great veterinarian must be compassionate towards animals and their owners (Passage 1).
+2. Excellent communication skills: A great veterinarian must be able to communicate effectively with pet owners to determine the animal's needs and explain the diagnosis and treatment clearly (Passage 2).
+3. Passion for animals: The most important skill for a veterinarian is a passion for animals and a commitment to their health and well-being (Passage 3).
+4. Interpersonal skills: Good interpersonal skills are essential when treating the pets of clients, who are often the ones paying the bills (Passage 3).
+
+Unable to answer based on given passages.",partly,753,1.0,0.0681
+17152,how to relieve tight calf muscles,"passage 1:Treatment for Tight Calf Muscles: If a calf cramp or tightness strikes in the middle of a run, stretching the muscle is the best immediate fix. Find a curb and rest the forefoot of the leg that's cramping on the curb. Slowly lower your heel off the curb and hold for 30 seconds. If your calf really starts seizing up, you may need to gently massage the area. After runs, one of the best ways to treat tight calf muscles is to see a sports massage therapist or physical therapist for a deep tissue massage. If you don't have the money or time for professional massages, you can also do self-massage at home using a massage tool such as a massage ball or foam roller.
+
+passage 2:Perform calf raises by first standing with your hands holding the back of a chair or table. Slowly raise your heels off the ground so that you are standing on your toes and the balls of your feet. You should feel a stretch in your calf muscles. Hold this position for a few seconds. Relax and repeat.
+
+passage 3:Calf Stretch Tips: 1  Hold Time: Work up to holding each stretch for 20 seconds or more. 2  Set Count: Three to five sets of holding a stretch, per leg.  Breathe: Slowly inhale through your nose and exhale out your mouth during each stretch.","Based on the given passages, here are some ways to relieve tight calf muscles:
+
+1. Stretching: According to passage 2, standing calf raises can help stretch the calf muscles. Hold the position for a few seconds and repeat several times.
+2. Self-massage: Passage 1 suggests using a massage tool such as a massage ball or foam roller to massage the affected area. This can help loosen tight muscles and improve circulation.
+3. Deep tissue massage: Passage 1 recommends seeing a sports massage therapist or physical therapist for a deep tissue massage to relieve tight calf muscles.
+4. Holding stretches: According to passage 3, holding each stretch for 20 seconds or more can be effective in relieving tight calf muscles.
+
+Please note that these suggestions are based only on the information provided in the given passages and may not cover all possible methods for relieving tight calf muscles.",partly,893,1.0,-0.0316
+12220,how to fold a quilt,"passage 1:Begin Sewing Binding to the Quilt Use my step-by-step instructions to learn how to sew mitered binding to the edges of a quilt. Trim the quilt sandwich to remove excess batting and backing. If the quilt top is skewed, fold back the other two layers and use a rotary ruler to very carefully square up the quilt.
+
+passage 2:The Timepiece Quilt used in this tutorial measures 56 inches by 70 inches, but this method can be used on any size quilt. 1  Step 1: Lay your quilt on a bed, table or other flat surface. 2  Step 2: Fold the lower right corner up toward the center of the quilt making sure the fold is on the bias.
+
+passage 3:Step 3: Fold the lower left corner up toward the center of the quilt making sure the fold is on the bias. Step 4: Fold the top left corner down toward the center of the quilt making sure the fold is on the bias. Step 5: Making sure the fold is on the bias, fold the top right corner down toward the center of the quilt.","Based on the given passages, here are the steps to fold a quilt:
+
+1. Lay the quilt on a flat surface.
+2. Fold the lower right corner up towards the center of the quilt, ensuring the fold is on the bias.
+3. Fold the lower left corner up towards the center of the quilt, also on the bias.
+4. Fold the top left corner down towards the center of the quilt, again on the bias.
+5. Fold the top right corner down towards the center of the quilt, again on the bias.
+
+These steps will result in a neatly folded quilt with four even corners. Note that the size of the quilt is not specified in the passages, so these steps can be applied to quilts of any size.",correct,650,1.0,-0.0383
+17289,weather in mount washington nh,"passage 1:0am:The Mount Washington, NH forecast for Mar 23 is 21 degrees and Partly cloudy. There is 53 percentage chance of rain and 7 mph winds from the North-Northwest. 3am:The Mount Washington, NH forecast for Mar 23 is 20 degrees and Overcast. There is 57 percentage chance of rain and 6 mph winds from the Northwest.
+
+passage 2:Mount Washington Weather Forecast for Thursday, March 23. The Mount Washington, NH forecast for Mar 23 is 32 degrees and Sunny . There is 40 percentage chance of rain and 4 mph winds from the North-Northwest.
+
+passage 3:6pm:The Mount Washington, NH forecast for Mar 23 is 40 degrees and Sunny. There is 35 percentage chance of rain and 2 mph winds from the West-Southwest. 9pm:The Mount Washington, NH forecast for Mar 23 is 34 degrees and Clear. There is 42 percentage chance of rain and 3 mph winds from the East-Southeast.","Based on the provided passages, the current weather conditions in Mount Washington, NH are as follows:
+
+At 0am and 3am, the temperature is 21°F (Partly cloudy) with a 53% chance of rain and winds from the North-Northwest at 7 mph.
+
+At 2am, the temperature is 32°F (Sunny) with a 40% chance of rain and winds from the North-Northwest at 4 mph.
+
+At 6pm, the temperature is 40°F (Sunny) with a 35% chance of rain and winds from the West-Southwest at 2 mph.
+
+At 9pm, the temperature is 34°F (Clear) with a 42% chance of rain and winds from the East-Southeast at 3 mph.
+
+Therefore, the current weather conditions in Mount Washington, NH are mostly sunny with a mix of clear skies and a slight chance of rain throughout the day. The temperature ranges from 21°F to 40°F (-6°C to 4°C) and wind speeds vary between 2 and 6 mph (3 and 9 km/h).",partly,834,1.0,0.0174
+12715,weather forecast in seminole county,"passage 1:For more than 20 years Earth Networks has operated the world’s largest and most comprehensive weather observation, lightning detection, and climate networks. We are now leveraging our big data smarts to deliver on the promise of IoT. By integrating our hyper-local weather data with Smart Home connected devices we are delievering predictive energy efficiency insight to homeowners and Utility companies. Company About
+
+passage 2:Aviation Weather Fire Weather Forecast Discussion Forecast Text Products Hydrology Local Model Data Marine Weather Tropical Weather
+
+passage 3:Weather Forecast for. Seminole County, FL. Tonight: A 30 percent chance of showers and thunderstorms before 2am. Mostly cloudy, with a low around 78. South southeast wind around 5 mph. Friday: A slight chance of showers between 8am and noon, then showers and thunderstorms likely after noon. Partly sunny, with a high near 92. South southwest wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch, except higher amounts possible in thunderstorms. Friday Night: A 40 percent chance of showers and thunderstorms, mainly before midnight.","Based on passage 3, the weather forecast in Seminole County for tonight is mostly cloudy with a 30 percent chance of showers and thunderstorms before 2am. The low temperature will be around 78 degrees Fahrenheit.",partly,212,1.0,-0.0816

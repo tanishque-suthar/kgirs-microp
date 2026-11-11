@@ -1,0 +1,2202 @@
+{
+  "17439": {
+    "id": "17439",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0681,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "17152": {
+    "id": "17152",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0316,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12220": {
+    "id": "12220",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0383,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "17289": {
+    "id": "17289",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0174,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12715": {
+    "id": "12715",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0816,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12712": {
+    "id": "12712",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0718,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13011": {
+    "id": "13011",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0432,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16379": {
+    "id": "16379",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0262,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15485": {
+    "id": "15485",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0643,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15794": {
+    "id": "15794",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0111,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13666": {
+    "id": "13666",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0665,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13009": {
+    "id": "13009",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0432,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15762": {
+    "id": "15762",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0446,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14673": {
+    "id": "14673",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0222,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "17313": {
+    "id": "17313",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.104,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13645": {
+    "id": "13645",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0556,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15557": {
+    "id": "15557",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0859,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16739": {
+    "id": "16739",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0287,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14418": {
+    "id": "14418",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0364,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "17703": {
+    "id": "17703",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0281,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12657": {
+    "id": "12657",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0287,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15061": {
+    "id": "15061",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0063,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13497": {
+    "id": "13497",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0552,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14867": {
+    "id": "14867",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0171,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "17621": {
+    "id": "17621",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0349,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16210": {
+    "id": "16210",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0127,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12670": {
+    "id": "12670",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0159,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12449": {
+    "id": "12449",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0307,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12898": {
+    "id": "12898",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.1348,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14290": {
+    "id": "14290",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0084,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "11940": {
+    "id": "11940",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0203,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13485": {
+    "id": "13485",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0347,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14941": {
+    "id": "14941",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0429,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14401": {
+    "id": "14401",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0762,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13541": {
+    "id": "13541",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0295,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14366": {
+    "id": "14366",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0791,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14517": {
+    "id": "14517",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0778,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14169": {
+    "id": "14169",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0529,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12194": {
+    "id": "12194",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0218,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14935": {
+    "id": "14935",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0069,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12888": {
+    "id": "12888",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0369,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14525": {
+    "id": "14525",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.1185,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16071": {
+    "id": "16071",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0282,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14309": {
+    "id": "14309",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0281,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14446": {
+    "id": "14446",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0472,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13809": {
+    "id": "13809",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.1129,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12602": {
+    "id": "12602",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.141,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16559": {
+    "id": "16559",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0004,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13447": {
+    "id": "13447",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0526,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12337": {
+    "id": "12337",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0694,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12951": {
+    "id": "12951",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.1049,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14719": {
+    "id": "14719",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0441,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12156": {
+    "id": "12156",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0664,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14048": {
+    "id": "14048",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0664,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13946": {
+    "id": "13946",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0827,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15249": {
+    "id": "15249",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.059,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15108": {
+    "id": "15108",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.2389,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16774": {
+    "id": "16774",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.121,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12823": {
+    "id": "12823",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0042,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16851": {
+    "id": "16851",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0009,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16239": {
+    "id": "16239",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0878,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "17433": {
+    "id": "17433",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.07,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15244": {
+    "id": "15244",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0273,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12261": {
+    "id": "12261",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0483,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16395": {
+    "id": "16395",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.1196,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12291": {
+    "id": "12291",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0024,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13126": {
+    "id": "13126",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.187,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15095": {
+    "id": "15095",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0936,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14393": {
+    "id": "14393",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.1093,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13288": {
+    "id": "13288",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.042,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14565": {
+    "id": "14565",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0591,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12569": {
+    "id": "12569",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0913,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13705": {
+    "id": "13705",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0496,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13577": {
+    "id": "13577",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0611,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15978": {
+    "id": "15978",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0005,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13129": {
+    "id": "13129",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.1037,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15147": {
+    "id": "15147",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0806,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12975": {
+    "id": "12975",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0153,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16174": {
+    "id": "16174",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0263,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "17186": {
+    "id": "17186",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0491,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16346": {
+    "id": "16346",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0009,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15080": {
+    "id": "15080",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0545,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15827": {
+    "id": "15827",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.1482,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16244": {
+    "id": "16244",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0358,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "17706": {
+    "id": "17706",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0191,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12138": {
+    "id": "12138",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0318,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14968": {
+    "id": "14968",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0043,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "12935": {
+    "id": "12935",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.1067,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13502": {
+    "id": "13502",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0118,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14986": {
+    "id": "14986",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.1452,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13463": {
+    "id": "13463",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0091,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "13919": {
+    "id": "13919",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0388,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14520": {
+    "id": "14520",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.1185,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "16765": {
+    "id": "16765",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0108,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15490": {
+    "id": "15490",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0068,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14344": {
+    "id": "14344",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.1037,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14906": {
+    "id": "14906",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.0091,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "15097": {
+    "id": "15097",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0951,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "14300": {
+    "id": "14300",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.006,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  },
+  "17070": {
+    "id": "17070",
+    "faithfulness": 1.0,
+    "answer_relevancy": -0.1537,
+    "statements": [
+      {
+        "statement": "Key point from answer",
+        "supported": true,
+        "reason": "Mentioned in context"
+      },
+      {
+        "statement": "Secondary procedural step",
+        "supported": true,
+        "reason": "Mentioned in context"
+      }
+    ],
+    "generated_questions": [
+      "What are the main details outlined in the answer?",
+      "How is the process conducted?",
+      "What conditions apply here?"
+    ]
+  }
+}
